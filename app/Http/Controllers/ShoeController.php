@@ -127,7 +127,7 @@ class ShoeController extends Controller
         'line_items'  => [
             [
                 'price_data' => [
-                    'currency'     => 'USD',
+                    'currency'     => 'PHP',
                     'product_data' => [
                         "name" => $productname,
                     ],
